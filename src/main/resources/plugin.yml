@@ -3,8 +3,7 @@ version: '1.0-SNAPSHOT'
 main: me.tcrs.microClazz.MicroClazz
 api-version: '1.21'
 author: The_CommanderRS
-description: A simple plugin for java scripting.
-website: https://modrinth.com/dashboard/projects
+description: Instantly compile and load Java classes with in-game commands.
 
 commands:
   microclazz:
