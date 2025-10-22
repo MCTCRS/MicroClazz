@@ -1,0 +1,3 @@
+#for loading classes
+run_on_enable:
+  - MicroClassCommandOnEnable this command runs on enable of MicroClazz plugin, to disable, check plugin's config.
